@@ -19,10 +19,12 @@ const double fruitCost = .75; //This value cannot be changed elsewhere.
 //INTEGER MANIPULATION
 
 System.Console.WriteLine("Enter the weight of Apples in pounds: "); //Giving context for user input (displaying a message).
-weightOfApples = int.Parse(System.Console.ReadLine()); //System waits for user input.
+userInput = int.Parse(System.Console.ReadLine()); //System waits for user input.
+weightOfApples = userInput;
 
 System.Console.WriteLine("Enter the weight of Oranges in pounds: ");
-weightOfOranges = int.Parse(Console.ReadLine());
+userInput = int.Parse(Console.ReadLine());
+weightOfOranges = userInput;
 
 System.Console.WriteLine("Total weight: " + (weightOfApples + weightOfOranges) + "lbs"); 
 
