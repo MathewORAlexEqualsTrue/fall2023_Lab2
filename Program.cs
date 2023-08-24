@@ -59,6 +59,6 @@ System.Console.WriteLine("\n"); //this special character acts as if the "enter" 
 System.Console.Write("2: We sell " + orangeType + " oranges.\n");  //These will appear on deferent lines because we have used \n.
 System.Console.Write("We sell " + appleType + " apples.\n");  //The same thing could be accomplished using 'Console.WriteLine'.
 
-System.Console.WriteLine(""); //We can also add a gap with an empty
+System.Console.WriteLine(""); //We can also add a gap with an empty writeLine
 
 System.Console.WriteLine($"3: We sell {orangeType} oranges.\nWe sell {appleType} apples.\n"); //using a "$" before the quotes allows us to enter variables in brackets rather than using +
