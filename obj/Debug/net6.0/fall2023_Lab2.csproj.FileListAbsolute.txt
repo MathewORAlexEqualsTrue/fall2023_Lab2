@@ -1,0 +1,15 @@
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.csproj.AssemblyReference.cache
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.AssemblyInfoInputs.cache
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.AssemblyInfo.cs
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\bin\Debug\net6.0\fall2023_Lab2.exe
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\bin\Debug\net6.0\fall2023_Lab2.deps.json
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\bin\Debug\net6.0\fall2023_Lab2.runtimeconfig.json
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\bin\Debug\net6.0\fall2023_Lab2.dll
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\bin\Debug\net6.0\fall2023_Lab2.pdb
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.dll
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\refint\fall2023_Lab2.dll
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.pdb
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\fall2023_Lab2.genruntimeconfig.cache
+C:\Users\Stanley Mk II\Desktop\TA 221\Fall 2023\Repos\Lab2\fall2023_Lab2\obj\Debug\net6.0\ref\fall2023_Lab2.dll
